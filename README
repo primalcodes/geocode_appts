@@ -1,0 +1,11 @@
+This script is intended to read in a csv that contains 
+addresses that can be geocoded (using Google API) and written
+out to a new csv file to be processed later.
+
+The process will read the geocoded data into a google maps template
+to display a given sales agent's appointments.
+
+TODO:
+Determine how to dynamically zoom in/out appropriately so it is
+possible to autogenerate pdfs of the final result to the client vs.
+sending html files as the final product.
